@@ -1,2 +1,2 @@
 # Refactor_ing
-Challenge from HTML-Git-CSS
+Project 1 from HTML-Git-CSS
